@@ -1,5 +1,3 @@
-# PAINEL-GERENCIAL-MARKETING-POWERBI
-
 # Painel Gerencial Automatizado - Agência de Marketing Digital
 
 Este repositório contém um projeto de criação de um painel gerencial automatizado utilizando Power BI, desenvolvido para uma agência de marketing digital. O painel permite o acompanhamento de indicadores de desempenho de campanhas e ajuda na tomada de decisões estratégicas para alcançar metas trimestrais.
